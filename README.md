@@ -6,8 +6,6 @@ The original dataset from Pace, R. Kelley, and Ronald Barry. "Sparse spatial aut
 
 # Usage
 
-*1- Clone the repo: ``` $ git clone https://github.com/aham225/HousingPricePredictor ```
-
-*2- Install necessary packages from "requirements.txt": ```$ pip install -r requirements.txt```
-
-*3- Run the notebook OR directly load the learned model: ```$ python3 tree_reg_loaded = joblib.load("tree_reg.pkl")```
+1. Clone the repo: ``` $ git clone https://github.com/aham225/HousingPricePredictor ```
+2. Install necessary packages from "requirements.txt": ```$ pip install -r requirements.txt```
+3. Run the notebook OR directly load the learned model: ```$ python3 tree_reg_loaded = joblib.load("tree_reg.pkl")```
